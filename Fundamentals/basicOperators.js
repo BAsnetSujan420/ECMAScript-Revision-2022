@@ -36,6 +36,7 @@ let counter2 = 1;
 let b = counter2++; // postfix
 console.log(b); // 1
 
+
 // More Intuitive examples
 
 let w = 1,
